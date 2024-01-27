@@ -32,7 +32,7 @@ public class FencePaint {
         }
 
         pw.println(painted);
-
+        
         // int[] test = new int[10];
         // for (int i : test) {pw.println(i);}
 
